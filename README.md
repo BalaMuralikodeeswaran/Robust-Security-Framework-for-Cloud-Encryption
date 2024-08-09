@@ -37,7 +37,7 @@ The project demonstrates the use of encryption ciphers and algorithms to secure 
 1. **Clone the repository:**
    - Use the following command to clone the repository:
      ```bash
-     git clone https://github.com/yourusername/your-repository-name.git
+     git clone https://github.com/BalaMuralikodeeswaran/Robust-Security-Framework-for-Cloud-Encryption.git
      ```
 
 2. **Navigate to the project directory:**
